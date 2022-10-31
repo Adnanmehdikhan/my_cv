@@ -6,8 +6,8 @@
 </head>
 <body>
 <div id="header">
-<p id="name">Deep Laxman Sukhwani</p>
-         <a href="mailto:deepsukhwani@gmail.com" target="_blank"><p id="email">deepsukhwani@gmail.com</p></a>
+<p id="name">Adnan Mehdi</p>
+         <a href="mailto:adnanmehdi414@gmail.com" target="_blank"><p id="email">adnanmehdi414@gmail.com</p></a>
      </div>
      <div class="left">
      </div>
@@ -40,34 +40,34 @@
                     <td>Year</td>
                 </tr>
                 <tr>
-                    <td>S.S.C</td>
-                    <td>G.S.E.B India</td>
-                    <td>75.57%</td>
-                    <td>2004</td>
+                    <td>BsiT</td>
+                    <td>Ghazi university dera ghazi khan</td>
+                    <td>90%</td>
+                    <td>2021-2025</td>
                 </tr>
                 <tr>
-                    <td>H.S.C (Science Stream)</td>
-                    <td>G.S.E.B India</td>
-                    <td>72.40%</td>
-                    <td>2006</td>
+                    <td>Intermediate</td>
+                    <td>Govt higher secondary sechool jaman shah</td>
+                    <td>95%</td>
+                    <td>2021</td>
                 </tr>
                 <tr>
-                    <td>GDCA (Grad. Dipl in Computer Applications)</td>
-                    <td>NIE (National Institute Of Engineering), Mumbai, India</td>
-                    <td>A Grade</td>
-                    <td>2008</td>
+                    <td>Matric</td>
+                    <td>Govt higher secondary sechool jaman shah, layyah</td>
+                    <td>A+</td>
+                    <td>2019</td>
                 </tr>
                 <tr>
-                    <td>B.Sc. (Hons) - Applied Accounting</td>
-                    <td>Oxford Brookes University</td>
-                    <td>2:1 – Upper Second Class Honours</td>
-                    <td>2012</td>
+                    <td>Middle</td>
+                    <td>Govt higher secondary sechool jaman shah</td>
+                    <td>384</td>
+                    <td>2017</td>
                 </tr>
                 <tr>
-                    <td>Chartered Accounting - ACCA</td>
-                    <td>ACCA Glasgow, UK</td>
+                    <td>Primary</td>
+                    <td>Govt higher secondary sechool jaman shah, layyah</td>
                     <td>Passed (1st Attempt)</td>
-                    <td>2013</td>
+                    <td>2015</td>
                 </tr>
             </table>
             <h3>Independent Courses</h3>
